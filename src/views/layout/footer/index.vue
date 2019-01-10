@@ -12,6 +12,7 @@
     position: absolute;
     width: 100%;
     background: #333;
+    //bottom:0;
     bottom:0;
   }
 
